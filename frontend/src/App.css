@@ -1,1 +1,3 @@
-@import "tailwindcss";
+.glow-on-hover:hover {
+    text-shadow: 0 0 12px rgb(218, 239, 29);
+}

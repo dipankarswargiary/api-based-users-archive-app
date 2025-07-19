@@ -1,10 +1,15 @@
 import './App.css'
+import Header from './layouts/Header';
+import Body from './layouts/Body';
 
 function App() {
 
   return (
-    <h1>Hello</h1>
-  )
+    <>
+      <Header />
+      <Body />
+    </>
+  );
 }
 
 export default App
